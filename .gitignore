@@ -1,0 +1,6 @@
+echo "# goshop" >> README.md
+git init
+git add assignment.md
+git commit -m "first commit"
+git remote add origin https://github.com/kashankhan95/goshop.git
+git push -u origin master
